@@ -19,7 +19,7 @@ Sistema de linha de comando em Python pra cadastrar, listar e ativar/desativar r
 1. Clone o repositório:
 
 ```
-git clone <https://github.com/LarissaQuintes/sabor-express>
+git clone https://github.com/LarissaQuintes/sabor-express
 ```
 
 1. Entre na pasta e roda:
